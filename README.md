@@ -32,11 +32,15 @@ medical-rag/
 conda create -n medical-rag python=3.12
 
 conda activate medical-rag
+
 3. Install dependencies:
 pip install anthropic chromadb sentence-transformers rich google-genai python-dotenv
+
 4. Install Ollama from ollama.com and pull the model:
 ollama pull llama3.2
+
 5. Run ingestion to build the vector store: python ingest.py
+
 6. Ask questions:python query.py
 ## Tech stack
 - **ChromaDB** — vector store for semantic search

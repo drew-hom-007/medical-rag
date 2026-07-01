@@ -12,7 +12,7 @@ DB_DIR = BASE_DIR / "db"
 
 MODEL_NAME = "all-MiniLM-L6-v2"
 COLLECTION_NAME = "medical_docs"
-TOP_K = 3
+TOP_K = 5
 
 def retrieve(query):
     console.print(f"\n[bold]Query:[/bold] {query}\n")

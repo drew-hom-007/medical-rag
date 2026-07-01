@@ -1,0 +1,19 @@
+Community-acquired pneumonia is an infection of the lungs acquired outside of a hospital setting.
+
+The most common cause of community-acquired pneumonia is Streptococcus pneumoniae, a type of bacteria.
+
+Symptoms of pneumonia include productive cough, fever, chills, shortness of breath, and sharp chest pain when breathing.
+
+Diagnosis is confirmed by chest X-ray showing consolidation, along with blood tests and sputum culture.
+
+The CURB-65 score is used to assess pneumonia severity and guide treatment decisions based on confusion, urea, respiratory rate, blood pressure, and age.
+
+Patients with a low CURB-65 score of 0 to 1 can be treated at home with oral antibiotics.
+
+Patients with a CURB-65 score of 2 or more should be admitted to hospital for intravenous antibiotics.
+
+First-line antibiotic treatment for community-acquired pneumonia is amoxicillin, with clarithromycin added for atypical organisms.
+
+Oxygen therapy is given to pneumonia patients with oxygen saturations below 94 percent.
+
+Prevention of pneumonia includes the pneumococcal vaccine, influenza vaccine, and smoking cessation.
